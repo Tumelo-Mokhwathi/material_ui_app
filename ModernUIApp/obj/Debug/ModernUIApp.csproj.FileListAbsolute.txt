@@ -1,0 +1,85 @@
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\ModernUIApp\ModernUIApp\bin\Debug\ModernUIApp.exe.config
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\ModernUIApp\ModernUIApp\bin\Debug\ModernUIApp.exe
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\ModernUIApp\ModernUIApp\bin\Debug\ModernUIApp.pdb
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\ModernUIApp\ModernUIApp\obj\Debug\ModernUIApp.csprojResolveAssemblyReference.cache
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\ModernUIApp\ModernUIApp\obj\Debug\MainWindow.baml
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\ModernUIApp\ModernUIApp\obj\Debug\MainWindow.g.cs
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\ModernUIApp\ModernUIApp\obj\Debug\App.g.cs
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\ModernUIApp\ModernUIApp\obj\Debug\ModernUIApp_MarkupCompile.cache
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\ModernUIApp\ModernUIApp\obj\Debug\ModernUIApp.g.resources
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\ModernUIApp\ModernUIApp\obj\Debug\ModernUIApp.Properties.Resources.resources
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\ModernUIApp\ModernUIApp\obj\Debug\ModernUIApp.csproj.GenerateResource.Cache
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\ModernUIApp\ModernUIApp\obj\Debug\ModernUIApp.exe
+A:\Users\TUMELO-MOKHWATHI\Desktop\MyProject\ModernUIApp\ModernUIApp\obj\Debug\ModernUIApp.pdb
+E:\ModernUIApp\ModernUIApp\obj\Debug\ModernUIApp.csprojAssemblyReference.cache
+E:\ModernUIApp\ModernUIApp\obj\Debug\MainWindow.baml
+E:\ModernUIApp\ModernUIApp\obj\Debug\MainWindow.g.cs
+E:\ModernUIApp\ModernUIApp\obj\Debug\App.g.cs
+E:\ModernUIApp\ModernUIApp\obj\Debug\ModernUIApp_MarkupCompile.cache
+E:\ModernUIApp\ModernUIApp\obj\Debug\ModernUIApp.exe
+E:\ModernUIApp\ModernUIApp\obj\Debug\ModernUIApp.pdb
+E:\ModernUIApp\ModernUIApp\bin\Debug\ModernUIApp.exe.config
+E:\ModernUIApp\ModernUIApp\bin\Debug\ModernUIApp.exe
+E:\ModernUIApp\ModernUIApp\bin\Debug\ModernUIApp.pdb
+E:\ModernUIApp\ModernUIApp\obj\Debug\ModernButtonTheme.baml
+E:\ModernUIApp\ModernUIApp\obj\Debug\ModernUIApp.g.resources
+E:\ModernUIApp\ModernUIApp\obj\Debug\ModernUIApp.Properties.Resources.resources
+E:\ModernUIApp\ModernUIApp\obj\Debug\ModernUIApp.csproj.GenerateResource.cache
+E:\ModernUIApp\ModernUIApp\obj\Debug\ModernUIApp.csproj.CoreCompileInputs.cache
+E:\ModernUIApp\ModernUIApp\obj\Debug\App.baml
+E:\Tumelo Mokhwathi Projects\ModernUIApp\ModernUIApp\bin\Debug\ModernUIApp.exe.config
+E:\Tumelo Mokhwathi Projects\ModernUIApp\ModernUIApp\bin\Debug\ModernUIApp.exe
+E:\Tumelo Mokhwathi Projects\ModernUIApp\ModernUIApp\bin\Debug\ModernUIApp.pdb
+E:\Tumelo Mokhwathi Projects\ModernUIApp\ModernUIApp\obj\Debug\MainWindow.baml
+E:\Tumelo Mokhwathi Projects\ModernUIApp\ModernUIApp\obj\Debug\ModernButtonTheme.baml
+E:\Tumelo Mokhwathi Projects\ModernUIApp\ModernUIApp\obj\Debug\App.baml
+E:\Tumelo Mokhwathi Projects\ModernUIApp\ModernUIApp\obj\Debug\HomePage.g.cs
+E:\Tumelo Mokhwathi Projects\ModernUIApp\ModernUIApp\obj\Debug\MainWindow.g.cs
+E:\Tumelo Mokhwathi Projects\ModernUIApp\ModernUIApp\obj\Debug\App.g.cs
+E:\Tumelo Mokhwathi Projects\ModernUIApp\ModernUIApp\obj\Debug\ModernUIApp_MarkupCompile.cache
+E:\Tumelo Mokhwathi Projects\ModernUIApp\ModernUIApp\obj\Debug\ModernUIApp_MarkupCompile.lref
+E:\Tumelo Mokhwathi Projects\ModernUIApp\ModernUIApp\obj\Debug\HomePage.baml
+E:\Tumelo Mokhwathi Projects\ModernUIApp\ModernUIApp\obj\Debug\ModernUIApp.g.resources
+E:\Tumelo Mokhwathi Projects\ModernUIApp\ModernUIApp\obj\Debug\ModernUIApp.Properties.Resources.resources
+E:\Tumelo Mokhwathi Projects\ModernUIApp\ModernUIApp\obj\Debug\ModernUIApp.csproj.GenerateResource.cache
+E:\Tumelo Mokhwathi Projects\ModernUIApp\ModernUIApp\obj\Debug\ModernUIApp.csproj.CoreCompileInputs.cache
+E:\Tumelo Mokhwathi Projects\ModernUIApp\ModernUIApp\obj\Debug\ModernUIApp.exe
+E:\Tumelo Mokhwathi Projects\ModernUIApp\ModernUIApp\obj\Debug\ModernUIApp.pdb
+E:\Tumelo Mokhwathi Projects\ModernUIApp\ModernUIApp\bin\Debug\LoginDetails.mdf
+E:\Tumelo Mokhwathi Projects\ModernUIApp\ModernUIApp\bin\Debug\LoginDetails_log.ldf
+E:\Tumelo Mokhwathi Projects\ModernUIApp\ModernUIApp\obj\Debug\ModernUIApp_Content.g.cs
+E:\Tumelo Mokhwathi Projects\ModernUIApp\ModernUIApp\bin\Debug\MaterialDesignColors.dll
+E:\Tumelo Mokhwathi Projects\ModernUIApp\ModernUIApp\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Tumelo Mokhwathi Projects\ModernUIApp\ModernUIApp\bin\Debug\MaterialDesignColors.pdb
+E:\Tumelo Mokhwathi Projects\ModernUIApp\ModernUIApp\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Tumelo Mokhwathi Projects\ModernUIApp\ModernUIApp\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Tumelo Mokhwathi Projects\ModernUIApp\ModernUIApp\obj\Debug\ModernUIApp.csproj.CopyComplete
+F:\Tumelo Mokhwathi Projects\ModernUIApp\ModernUIApp\bin\Debug\ModernUIApp.exe.config
+F:\Tumelo Mokhwathi Projects\ModernUIApp\ModernUIApp\obj\Debug\ModernUIApp.exe
+F:\Tumelo Mokhwathi Projects\ModernUIApp\ModernUIApp\obj\Debug\ModernUIApp.pdb
+F:\Tumelo Mokhwathi Projects\ModernUIApp\ModernUIApp\bin\Debug\LoginDetails.mdf
+F:\Tumelo Mokhwathi Projects\ModernUIApp\ModernUIApp\bin\Debug\LoginDetails_log.ldf
+F:\Tumelo Mokhwathi Projects\ModernUIApp\ModernUIApp\bin\Debug\ModernUIApp.exe
+F:\Tumelo Mokhwathi Projects\ModernUIApp\ModernUIApp\bin\Debug\ModernUIApp.pdb
+F:\Tumelo Mokhwathi Projects\ModernUIApp\ModernUIApp\bin\Debug\MaterialDesignColors.dll
+F:\Tumelo Mokhwathi Projects\ModernUIApp\ModernUIApp\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\Tumelo Mokhwathi Projects\ModernUIApp\ModernUIApp\bin\Debug\MaterialDesignColors.pdb
+F:\Tumelo Mokhwathi Projects\ModernUIApp\ModernUIApp\bin\Debug\MaterialDesignThemes.Wpf.pdb
+F:\Tumelo Mokhwathi Projects\ModernUIApp\ModernUIApp\bin\Debug\MaterialDesignThemes.Wpf.xml
+F:\Tumelo Mokhwathi Projects\ModernUIApp\ModernUIApp\obj\Debug\ModernUIApp.csprojResolveAssemblyReference.cache
+F:\Tumelo Mokhwathi Projects\ModernUIApp\ModernUIApp\obj\Debug\MainWindow.baml
+F:\Tumelo Mokhwathi Projects\ModernUIApp\ModernUIApp\obj\Debug\ModernButtonTheme.baml
+F:\Tumelo Mokhwathi Projects\ModernUIApp\ModernUIApp\obj\Debug\App.baml
+F:\Tumelo Mokhwathi Projects\ModernUIApp\ModernUIApp\obj\Debug\HomePage.g.cs
+F:\Tumelo Mokhwathi Projects\ModernUIApp\ModernUIApp\obj\Debug\MainWindow.g.cs
+F:\Tumelo Mokhwathi Projects\ModernUIApp\ModernUIApp\obj\Debug\App.g.cs
+F:\Tumelo Mokhwathi Projects\ModernUIApp\ModernUIApp\obj\Debug\ModernUIApp_Content.g.cs
+F:\Tumelo Mokhwathi Projects\ModernUIApp\ModernUIApp\obj\Debug\ModernUIApp_MarkupCompile.cache
+F:\Tumelo Mokhwathi Projects\ModernUIApp\ModernUIApp\obj\Debug\ModernUIApp_MarkupCompile.lref
+F:\Tumelo Mokhwathi Projects\ModernUIApp\ModernUIApp\obj\Debug\HomePage.baml
+F:\Tumelo Mokhwathi Projects\ModernUIApp\ModernUIApp\obj\Debug\ModernUIApp.g.resources
+F:\Tumelo Mokhwathi Projects\ModernUIApp\ModernUIApp\obj\Debug\ModernUIApp.Properties.Resources.resources
+F:\Tumelo Mokhwathi Projects\ModernUIApp\ModernUIApp\obj\Debug\ModernUIApp.csproj.GenerateResource.Cache
+E:\Tumelo Mokhwathi Projects\ModernUIApp\ModernUIApp\obj\Debug\Calender.g.cs
+E:\Tumelo Mokhwathi Projects\ModernUIApp\ModernUIApp\obj\Debug\Calender.baml
+E:\Tumelo Mokhwathi Projects\ModernUIApp\ModernUIApp\obj\Debug\ModernUIApp.csprojAssemblyReference.cache
